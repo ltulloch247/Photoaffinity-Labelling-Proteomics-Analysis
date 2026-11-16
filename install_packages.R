@@ -1,0 +1,11 @@
+# Install packages for pulldown data analysis
+install.packages("dplyr")
+install.packages("drc", type = "binary")
+install.packages("plotly")
+install.packages("purrr")
+install.packages("readxl")
+install.packages("stringr")
+install.packages("tidyr")
+install.packages("tidyverse")
+install.packages("VennDiagram")
+install.packages("writexl")
